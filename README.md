@@ -1,7 +1,5 @@
 # MEAN Stack E-commerce
 
-Demo: [http://styleworks.herokuapp.com](http://styleworks.herokuapp.com/)
-
 ## Stack of technologies
 <img align="right" src="./client/img/screenshots/MEAN_Stack.png" alt="MEAN Stack" height="150px">
 
@@ -15,7 +13,7 @@ Demo: [http://styleworks.herokuapp.com](http://styleworks.herokuapp.com/)
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone git@github.com:yaroslav0507/FullStackJS.git # or clone your own fork
+$ git clone git@github.com:smartman1234/FullStackJS.git # or clone your own fork
 $ cd pet
 $ npm install
 $ npm start
